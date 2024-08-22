@@ -22,5 +22,5 @@ For more details, visit my [Projects](https://dhruvil16.github.io/#projects) sec
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me through the contact form on my [website](https://dhruvil16.github.io/), or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/).
+Feel free to reach out to me through the contact form on my [website](https://dhruvil16.github.io/), or connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvil16/).
 
