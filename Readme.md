@@ -7,18 +7,18 @@ I'm Dhruvil, a passionate machine learning enthusiast with a strong focus on adv
 ## 🛠️ Projects
 
 Explore some of the key projects I've worked on:
-- **[Speech-Based Quiz Application](#)**: Developed a C++ application that recognizes words spoken by users, enhancing learning through interactive quizzes.
-- **[Underwater Image Super-Resolution](#)**: Worked on an attention-based network to improve the resolution of underwater images.
-- **[AI-Powered Fruit and Vegetable Recognition](#)**: Created an educational tool that helps children learn and recognize different fruits and vegetables using AI.
+- **Speech-Based Quiz Application**: Developed a C++ application that recognizes words spoken by users, enhancing learning through interactive quizzes.
+- **Underwater Image Super-Resolution**: Worked on an attention-based network to improve the resolution of underwater images.
+- **MultiModal Fake News Detection**: Developed a binary classification model for fake news detection.
 
 For more details, visit my [Projects](https://dhruvil16.github.io/#projects) section on the website.
 
 ## 🌱 Skills
 
-- **Programming Languages**: C++, Python, JavaScript
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn
+- **Programming Languages**: C/C++, Python, JavaScript
+- **Machine Learning**:  PyTorch, Scikit-Learn, TensorFlow
 - **Data Science**: Pandas, NumPy, Matplotlib
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Web Development**: HTML, CSS, Javascript*
 
 ## 📫 Get in Touch
 
